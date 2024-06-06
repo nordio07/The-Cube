@@ -1,2 +1,2 @@
-#define SECRET_SSID "Qwerty" // Qwerty o Nordio
-#define SECRET_PASS "Lorenzoo" // Robertoo o FridaPoly97
+#define SECRET_SSID "insert your wifi name"
+#define SECRET_PASS "insert the password of your wifi"
